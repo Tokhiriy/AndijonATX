@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Montserrat, sans-serif;
+    
+}
+
+.container{
+    width: 100vw;
+    padding: 1.1rem 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.1rem;
+    color:#007bff;
+}
+
+.header__nav-ul{
+    display: flex;
+}
+
+.header__nav{
+    padding: 0 10vw;
+}
